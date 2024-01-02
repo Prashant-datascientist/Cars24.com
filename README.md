@@ -1,2 +1,2 @@
 # Cars24.com
-Scraped data of cars24.com using selenium and python language. I got various metrics about the cars and took useful metrics using feature selection and made a predictive analysis using regression technique to predict a price of Used Old Car.
+I scraped data from cars24.com using Selenium and Python. I obtained various metrics about the cars and selected relevant features through feature selection. Subsequently, I conducted predictive analysis using regression techniques to estimate the price of used old cars.
